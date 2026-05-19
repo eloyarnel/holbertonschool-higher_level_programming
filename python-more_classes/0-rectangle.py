@@ -1,0 +1,5 @@
+#!/usr/bin/pyhon3
+"""Defines a rectangle"""
+class Rectangle:
+    """Represents a rectangle"""
+    pass
