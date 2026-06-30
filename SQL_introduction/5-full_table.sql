@@ -1,0 +1,2 @@
+-- Command to prints the following description of the table first_table (in the current database):
+SHOW CREATE TABLE first_table;
