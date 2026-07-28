@@ -1,5 +1,6 @@
 #!/usr/bin/node
 
+
 const args = process.argv.slice(2).map(Number);
 
 if (args.length < 2) {
